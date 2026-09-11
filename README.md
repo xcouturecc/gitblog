@@ -37,11 +37,11 @@
 </details>
 
 ## 最近更新
+- [解决Excel加载项](https://github.com/coutureone/gitblog/issues/52)--2026-09-11
 - [1000KM](https://github.com/coutureone/gitblog/issues/51)--2026-08-22
 - [关于苹果iMessage 打字卡顿BUG](https://github.com/coutureone/gitblog/issues/50)--2026-08-17
 - [无糖可乐比咖啡劲大](https://github.com/coutureone/gitblog/issues/49)--2026-07-31
 - [奇怪的人际关系](https://github.com/coutureone/gitblog/issues/48)--2026-07-16
-- [关于MosDNS没有轮转机制解决方案](https://github.com/coutureone/gitblog/issues/47)--2026-07-13
 ## Agent
 - [Hermes 踩坑](https://github.com/coutureone/gitblog/issues/40)--2026-05-28
 ## About Me
@@ -67,13 +67,14 @@
 - [1000KM](https://github.com/coutureone/gitblog/issues/51)--2026-08-22
 - [博客优化](https://github.com/coutureone/gitblog/issues/45)--2026-07-05
 - [2024从那里写呢](https://github.com/coutureone/gitblog/issues/8)--2025-01-19
+- [解决Excel加载项](https://github.com/coutureone/gitblog/issues/52)--2026-09-11
 - [关于苹果iMessage 打字卡顿BUG](https://github.com/coutureone/gitblog/issues/50)--2026-08-17
 - [无糖可乐比咖啡劲大](https://github.com/coutureone/gitblog/issues/49)--2026-07-31
 - [奇怪的人际关系](https://github.com/coutureone/gitblog/issues/48)--2026-07-16
 - [万象输入方案配置](https://github.com/coutureone/gitblog/issues/46)--2026-07-07
-- [深夜流水账：长跑、网络折腾与AI时代的胡思乱想写点东西](https://github.com/coutureone/gitblog/issues/39)--2026-05-18
 <details><summary>显示更多</summary>
 
+- [深夜流水账：长跑、网络折腾与AI时代的胡思乱想写点东西](https://github.com/coutureone/gitblog/issues/39)--2026-05-18
 - [跑步首次“站台”](https://github.com/coutureone/gitblog/issues/38)--2026-05-07
 - [南京](https://github.com/coutureone/gitblog/issues/37)--2026-05-05
 - [Garmin网页批量删除活动](https://github.com/coutureone/gitblog/issues/36)--2026-03-31

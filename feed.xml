@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://blog.xcouture.cc</id><title>Couture's Blog</title><updated>2026-08-22T16:18:40+00:00</updated><link href="https://blog.xcouture.cc"/><link href="https://raw.githubusercontent.com/coutureone/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://blog.xcouture.cc/#/posts/51</id><title>1000KM</title><updated>2026-08-22T16:18:40+00:00</updated><content type="html"><![CDATA[<p> 今天跑完以后，我像往常一样停下手表，结束，保存，年初定下的目标1000公里，今天实现了。这也是我跑步以来，第一次一年时间跑了这么多公里的路程。我很开心。但真正让我感慨的，并不是“一千公里”本身，而是它背后那些普通得几乎不会被记住的日子。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://blog.xcouture.cc</id><title>Couture's Blog</title><updated>2026-09-11T04:22:53+00:00</updated><link href="https://blog.xcouture.cc"/><link href="https://raw.githubusercontent.com/coutureone/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://blog.xcouture.cc/#/posts/52</id><title>解决Excel加载项</title><updated>2026-09-11T04:22:53+00:00</updated><content type="html"><![CDATA[<h1>解决Excel加载项</h1>
+<p>关于解决<code>Office</code>在<code>Mac</code>上面打开文件报错，解决方式：</p>
+<p>工具-&gt;Excel-&gt;加载项</p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/IMG_2902.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260911121325812.png" alt="" /></p>
+<p>去掉以后问题解决了，不会在报错了。</p>
+]]></content><link href="https://blog.xcouture.cc/#/posts/52"/><category term="杂记"/><published>2026-09-11T04:22:53+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/51</id><title>1000KM</title><updated>2026-08-22T16:18:40+00:00</updated><content type="html"><![CDATA[<p> 今天跑完以后，我像往常一样停下手表，结束，保存，年初定下的目标1000公里，今天实现了。这也是我跑步以来，第一次一年时间跑了这么多公里的路程。我很开心。但真正让我感慨的，并不是“一千公里”本身，而是它背后那些普通得几乎不会被记住的日子。</p>
 <h2>一千公里，是许多个平凡日子的总和</h2>
 <p> 一千公里听起来很远。可真正跑起来，它从来不是一次完成的。它被拆散在一年里的许多个清晨、傍晚和夜晚，藏在一次次五公里、十公里，以及那些状态不好、只勉强跑完几公里的训练里。有些时候天气很好，脚步轻快，跑起来仿佛毫不费力；也有些时候身体疲惫，刚出门就开始怀疑自己为什么要跑。
  有迎着风的时候，也有淋着雨的时候；有看过日出，也有在夜色里独自跑过熟悉的街道。现在回头看，那些当时觉得普普通通的跑步记录，最终连在了一起，变成了今天的这一千公里。原来所谓的“很远”，不过是把一段段不远的路，坚持走了下去。</p>
