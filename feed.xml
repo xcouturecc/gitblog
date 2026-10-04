@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://blog.xcouture.cc</id><title>Couture's Blog</title><updated>2026-09-28T14:33:23+00:00</updated><link href="https://blog.xcouture.cc"/><link href="https://raw.githubusercontent.com/coutureone/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://blog.xcouture.cc/#/posts/53</id><title>ChatGPT接入中国Garmin</title><updated>2026-09-28T14:33:23+00:00</updated><content type="html"><![CDATA[<p> 我原本考虑把佳明账号换成国际区，想让训练数据更方便地进入 AI 助手。但了解之后发现，换区未必能解决我遇到的接入限制。最后，我保留了 Garmin Connect 中国区账号，借助开源项目 借助开源项目 <a href="https://github.com/Taxuspt/garmin_mcp">Garmin MCP Server</a>，搭建了一条适合自己使用的链路。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://blog.xcouture.cc</id><title>Couture's Blog</title><updated>2026-09-28T14:33:23+00:00</updated><link href="https://blog.xcouture.cc"/><link href="https://raw.githubusercontent.com/xcouturecc/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://blog.xcouture.cc/#/posts/53</id><title>ChatGPT接入中国Garmin</title><updated>2026-09-28T14:33:23+00:00</updated><content type="html"><![CDATA[<p> 我原本考虑把佳明账号换成国际区，想让训练数据更方便地进入 AI 助手。但了解之后发现，换区未必能解决我遇到的接入限制。最后，我保留了 Garmin Connect 中国区账号，借助开源项目 借助开源项目 <a href="https://github.com/Taxuspt/garmin_mcp">Garmin MCP Server</a>，搭建了一条适合自己使用的链路。</p>
 <p> 现在，我可以在 Codex 桌面端直接询问最近的跑步、睡眠和恢复情况；软路由也会定时取数，生成训练日报并通过 Bark 推送到手机。这里的“接入 ChatGPT”，具体落地在支持 MCP 的 Codex 客户端和我自己写的日报程序中。</p>
 <h2>整体架构</h2>
 <pre><code class="language-text">Garmin Connect 中国区
@@ -348,7 +348,7 @@ API_SERVER_KEY=你自己设置的密钥 # 最好是8为数字字符
 ]]></content><link href="https://blog.xcouture.cc/#/posts/39"/><category term="杂记"/><published>2026-05-18T17:02:24+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/38</id><title>跑步首次“站台”</title><updated>2026-05-07T12:39:49+00:00</updated><content type="html"><![CDATA[<p> 人生中第一次“站台”，竟然是以这种方式实现的。
  单位组织的迷你马拉松，全程3.91公里。开赛前压根没想过能拿名次，毕竟和正值体力巅峰的学生们同场竞技，感觉没有胜算。
  最后以18分17秒完赛，摘得其他组亚军。总排名26哈哈，唯一的遗憾是前半程冲得太猛，不小心当了回“兔子”，给别人做了“嫁衣”。哈哈，菜就多练，没有白练，去年我都还是垫底的水平，不过，能在奔跑中感受这份单纯的快乐，看身体突破预期的极限，这远比名次更有意思。重在参与，这种惊喜的感觉确实很棒！</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/20260507203444646.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/20260507203444646.jpg" alt="" /></p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/38"/><category term="杂记"/><published>2026-05-07T12:39:49+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/37</id><title>南京</title><updated>2026-05-05T09:05:21+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>一座南京城，半个民国史。</p>
 </blockquote>
@@ -356,7 +356,7 @@ API_SERVER_KEY=你自己设置的密钥 # 最好是8为数字字符
 <h4>1. 南京，是另一种底色</h4>
 <p> 同样是南方的名城，南京给我的感觉与杭州截然不同。如果说杭州是丝绸般的精致与柔和，那么南京则像是一块历经风霜却依然温润的古玉。</p>
 <p>走在街头，最先映入眼帘的是那醒目的<strong>黄色出租车</strong>，穿梭在城市的大街小巷。而路两旁遮天蔽日的<strong>梧桐树</strong>，则是这座城市最坚韧的脊梁。这些梧桐不仅仅是风景，它们像是某种历史的守望者，默默注视着这座城市的往昔与今朝。</p>
-<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/DDCA2DB2-CFDF-4923-834A-E56A56D4B031_1_105_c.jpeg" /> </div>
+<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/DDCA2DB2-CFDF-4923-834A-E56A56D4B031_1_105_c.jpeg" /> </div>
 <h4>2. 穿行在时光的缝隙里</h4>
 <p> 这一周的闲暇时光，我几乎都交给了那些带有厚重标签的地标：</p>
 <ul>
@@ -365,15 +365,15 @@ API_SERVER_KEY=你自己设置的密钥 # 最好是8为数字字符
 <li><strong>秦淮河与夫子庙</strong>：当夜色降临，灯火摇曳的秦淮河才真正显露出了它金粉之地的温柔。</li>
 </ul>
 <p> 遗憾总是有的，因为行程关系，还有许多想去的地方未能成行。但正如人们常说的，留一点遗憾，是为了下一次更好的相逢。</p>
-<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/0B7BEC59-00EE-47BF-9064-4E1191BC3674_1_105_c-20260505164218589-20260505164446529.jpeg" /> </div>
+<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/0B7BEC59-00EE-47BF-9064-4E1191BC3674_1_105_c-20260505164218589-20260505164446529.jpeg" /> </div>
 <h4>3. 玄武湖：一场“梧桐雪”里的奔跑</h4>
 <p> 作为一名跑者，每到一个城市，用双脚去丈量它的土地似乎成了我的仪式感。南京的跑步胜地，自然不能错过。</p>
 <p>在<strong>玄武湖</strong>畔跑了一圈十公里，那种体验极其奇妙。恰逢这个季节，南京的梧桐絮漫天飞舞。跑在湖边，那些飞絮扑面而来，视觉上美得像是在下一场鹅毛大雪，虽然呼吸间有些小麻烦，但那种身处画中的沉浸感，让这十公里跑得心旷神怡。</p>
-<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/20260505164711915.jpeg" /> </div>
-<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/20260505170443362.jpeg" /> </div>
+<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/20260505164711915.jpeg" /> </div>
+<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/20260505170443362.jpeg" /> </div>
 <h4>4. “再见”南京</h4>
 <p> 南京是一座值得细细品味的城市。它有它的不紧不慢，有它特有的风景线。这一周的停留只是惊鸿一瞥，那些没能走完的路，没能看全的景，我们下次见。</p>
-<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/20260505164924304.jpeg" /> </div>
+<div align="center">   <img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/20260505164924304.jpeg" /> </div>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/37"/><category term="杂记"/><published>2026-05-05T08:58:53+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/36</id><title>Garmin网页批量删除活动</title><updated>2026-03-31T13:05:45+00:00</updated><content type="html"><![CDATA[<p> 在浏览器控制台里面粘贴进去，前提是已经登录好了connect网页版本。</p>
 <pre><code class="language-js">// v0.30 2025-11-18 (China CN Version Modified)
 (function() {
@@ -494,11 +494,11 @@ API_SERVER_KEY=你自己设置的密钥 # 最好是8为数字字符
 <p> 基础操作就不说，怎么安装插件也不说，这些都是可以自行GitHub上面就可以的，都是开源的，主要是说一下自己的配置：</p>
 <h3>OpenClash</h3>
 <p>运行模式肯定是tun模式，我个人也比较推荐这个模式</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308144907897.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308144907897.png" alt="" /></p>
 <p> 本地DNS劫持选择禁用</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308145009618.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308145009618.png" alt="" /></p>
 <p> 覆写设置里面就是自定义dns上游服务器勾选上，Nameserve和Fallback都是 127.0.0.1 端口号是你的mosdns端口号，我是默认5335，取决于你自己的设置。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308145625537.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308145625537.png" alt="" /></p>
 <p> OpenClash的设置到这里基本差不多，订阅自行导入，这里不做过多赘述。</p>
 <h3>MosDns</h3>
 <p> 我的建议是大家直接根据自己的需求配置，用AI进行补充调整，下面我的配置也只是仅供参考，因为我加了学校的内网配置，以及我的订阅代理代理需要解析，进行调整，否则tls加密无法解析到。</p>
@@ -677,19 +677,19 @@ plugins:
       listen: &quot;:5335&quot;
 </code></pre>
 <p> 设置具体如下：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308150339538.png" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308150400040.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308150339538.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308150400040.png" alt="" /></p>
 <p>根据自己实际需求进行填写，我这也只是参考作用，给自己做一个备份。</p>
 <h3>AdGuard</h3>
 <p> 主要是防止自己的端口冲突，这里可以自己设置，我是这样设置的，最主要的设置在内部的 DNS设置里面，不能写错了，下面是我的作为参考。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308150728839.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308150728839.png" alt="" /></p>
 <p> DNS设置</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308150910859.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308150910859.png" alt="" /></p>
 <p> 到这里其实设置的基本差不多了，还有一个最主要的没有设置，那就是网络里面的DCHP/DNS</p>
 <h3>DHCP/DNS</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308151225689.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308151225689.png" alt="" /></p>
 <p> 转发端口是AdGuard监听端口</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260308151451931.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260308151451931.png" alt="" /></p>
 <p> 到这里基本就没啥问题了，ATrust其实我就不多介绍了，按照自己的实际需求来，参考GitHub项目[<a href="https://github.com/docker-easyconnect/docker-easyconnect">docker-easyconnect</a>](https://github.com/docker-easyconnect/docker-easyconnect)，这个就可以了。</p>
 <h4>特别鸣谢：</h4>
 <p>感谢[<a href="https://space.bilibili.com/244390800?spm_id_from=333.337.0.0">乌龙蜜桃来一打</a>](https://space.bilibili.com/244390800?spm_id_from=333.337.0.0)</p>
@@ -702,9 +702,9 @@ plugins:
 <p> 和好久没有聚的同学喝了一顿，五个人两瓶挺好，不是很晕，很久很久没有喝白酒了；</p>
 <p> 人生首个马拉松中签了，不知道到时候自己能坚持下来不，好久没有训练了，重在参与，尽力而为。</p>
 <p> 放一些近况的照片：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/IMG_20260211_093549%20.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/IMG_20260212_204949.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/mmexport1770689780176.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/IMG_20260211_093549%20.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/IMG_20260212_204949.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/mmexport1770689780176.jpg" alt="" /></p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/34"/><category term="随笔"/><published>2026-02-13T00:17:49+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/32</id><title>遵从本心</title><updated>2026-01-25T04:06:59+00:00</updated><content type="html"><![CDATA[<p>己所不欲，勿施于人。</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/32"/><category term="随笔"/><published>2026-01-19T13:14:42+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/31</id><title>抽奖？又是陪跑的一年！</title><updated>2026-01-15T12:26:24+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>人生没有那么主角，当观众也挺好~</p>
@@ -713,9 +713,9 @@ plugins:
 <p> 印象最深莫过于那两把吉他，一曲许巍的《故乡》，跨越三十年的时光回响，自述自己已经是30年没有登上舞台了，可能上次登上舞台是大学的联会，如今到了快要退休的年纪，瞬间点燃全场。这种精益求精的传承，让舞台不只是表演，更成了一场关于青春与热爱的致敬。</p>
 <p> 每年的联欢会最好玩的环节就是抽奖了，今年的号码是<code>1007</code>，拿到这个号码的时候我就在想，今年大概率要没了，一共四轮，300个奖项，从三等奖到特等奖，我昨左边同事抽到了二等奖，右边的三等奖，到我啥也没有哈哈哈哈，不过已经习惯了，毕竟重在参与嘛。</p>
 <p> 然后就是下面放一些瞬间的图片吧。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/202601151.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/202601152.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/202601153.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/202601151.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/202601152.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/202601153.jpg" alt="" /></p>
 <p> 明年能不能不让我陪跑了？抽我？！</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/31"/><category term="杂记"/><published>2026-01-15T12:26:24+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/30</id><title>西湖</title><updated>2026-01-11T12:25:31+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>欲把西湖比西子 淡妆浓抹总相宜</p>
@@ -724,14 +724,14 @@ plugins:
 <p> 自己从凤起路地铁站下，然后一直走到断桥-&gt;白堤-&gt;苏堤-&gt;雷峰塔，最后走到定安路地铁站，用手表统计了一下，大概是10km，可能是自己走的太快了，走的自己脚底板疼，冬天的西湖感觉有点像初春，出门没有穿棉袄，有太阳的地方还好，没有太阳的地方感觉寒风有些刺骨，自己也是一路走走停停，坐在西湖苏堤旁边的椅子上，望着湖水，对着对面的高楼大厦发呆，感觉还不错。熙熙攘攘的人群，很多都是来打卡拍照的，或者是带着小朋友出来玩的，天气比较不错，冬天感觉小朋友感觉过来踏春的。</p>
 <p> 整个过程自己带着耳机，没有何任何人说话，走到雷峰塔的时候我还在想，今天要不要等看着日落，想着自己没穿棉袄，就简单穿个外套，还是别自己搞自己了，下次吧，去西湖的机会应该会很多，每次去的时候感觉都是不一样，真就是：“年年岁岁花相似，岁岁年年人不同”，时间不语，只是不停的给出答案。</p>
 <p> 拍了一些简单的照片：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/going.png" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/wslake1.png" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/IMG_20260111_145355.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/IMG_20260111_150523.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/IMG_20260111_154356.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/going.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/wslake1.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/IMG_20260111_145355.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/IMG_20260111_150523.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/IMG_20260111_154356.jpg" alt="" /></p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/30"/><category term="随笔"/><published>2026-01-11T12:25:31+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/29</id><title>使用Gemini3 Pro优化苹果终端索引加载速度</title><updated>2026-01-10T06:33:47+00:00</updated><content type="html"><![CDATA[<p> 自己一开始对苹果终端索引加载速度并不是很在意，毕竟随着自己用到的环境变量越来越多，终端加载速度越来越慢，慢到了超出了我难以接受的范围，加载索引都要5秒左右，测试一个<code>ping</code>都要等索引加载一段时间才可以，于是自己想到了用AI去优化这个索引加载。</p>
 <p> 提出需求：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20260110142458293.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20260110142458293.png" alt="" /></p>
 <p> 我的三个配置文件分别如下：</p>
 <p><code>.zshrc</code>:</p>
 <pre><code class="language-bash">if [[ -r &quot;${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh&quot; ]]; then
@@ -903,7 +903,7 @@ fi
 <p>人生不相见，动如参与商</p>
 </blockquote>
 <p> 小学同学，高中同学，至今7年，我们没有见面，中间过年的时候好多次喊我去聚会，我们始终没有见面，他来杭州工作了，昨天晚上我们见面吃了一顿饭，变化真的太快了， 这几年他也是经历了很多，我们相互聊了很多，从最好的学生时代，再到现在为了生活奔波的我们，把酒言欢，临近年末很很多同学因为冲业绩暂时也没能相聚，以后都有机会，下一次聚会应该不会是7年了， 高中毕业大家说十年再相聚，还有3年了，时间啊，请你慢些脚步吧~</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/c80b31c603032b8c417f8a05cb4cda2f.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/c80b31c603032b8c417f8a05cb4cda2f.jpg" alt="" /></p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/27"/><category term="杂记"/><published>2025-12-28T06:24:44+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/26</id><title>明年今日</title><updated>2025-12-24T03:54:04+00:00</updated><content type="html"><![CDATA[<p>明年今日的时候，我在看到这篇博客的时候，我已经对笔试胸有成竹，通过了ZJU的初试。</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/26"/><category term="随笔"/><published>2025-12-24T03:53:18+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/24</id><title>Zstack BUG</title><updated>2025-12-09T08:36:28+00:00</updated><content type="html"><![CDATA[<p>在 zstack 5.3.40 版本中，Ubuntu镜像不能安装自带的插件，否则云主机在手动下发IP地址的时候不能进行下发地址。</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/24"/><category term="技术"/><published>2025-12-09T08:36:28+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/23</id><title>IPv6小记</title><updated>2025-12-05T02:01:05+00:00</updated><content type="html"><![CDATA[<p> 最近在调试单位的IPv6的网络，运营商对专线的方式和普通家用方式是完全不一样的了，大多数情况，运营商给的IPv6的下发方式有两种：</p>
@@ -913,19 +913,19 @@ fi
 </ol>
 <p> 这两种方式都是可以打通网络的，用户侧这里配置没有问题的情况下，就不会有太大的问题，当然这里说的只是一般情况，我就遇到这个特殊的情况：</p>
 <p> 运营商给的是交换模式，这种情况在用户侧的出口防火墙配置，配置好了，但是发现就是不通，然后采取了第二种方式，用路由模式，进行配置以后，网络直接通了，IPv4和IPv6的速率可以保持一致了，测试结果如下：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/a6a6e69c0c50488231a84461b2938846.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/a6a6e69c0c50488231a84461b2938846.png" alt="" /></p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/23"/><category term="技术"/><published>2025-12-05T02:01:05+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/22</id><title>月亮在看着我</title><updated>2025-10-16T05:06:53+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>生前一杯茶，抵过死后万两金。</p>
 </blockquote>
 <p> 十一假期，姥姥走了，人这一生可能就是这样，两个女儿一个儿子，最后都没有赶上见老人家最后一面，这一辈子也是吃了不少苦，特别是耳朵的听力，成为我姥姥这一辈子的羁绊。</p>
 <p> 记得小时候我父亲因为车祸，我寄住于各个亲戚家里，当然在我姥姥那里待的时间是最长的，三个月时间，我差别不多60天的时间都是待在姥姥家里，姥姥很溺爱自己的孩子，那时候我和我表哥不管是有犯了什么错误，从来没有说过我们，每次去她哪里的时候都会给最好的留给孩子，上班以后每年的回家次数相对来说就少了很多，特别是今年，今年在此之前一次都还没有回过老家，记得过年走的时候，姥姥拉着我的手：“外甥，你啥时候会再来？”，我当时脱口而出，端午节就回来，姥姥笑着和我说：“好”。没想到这一走尽是成了最后一面，这一面是开心的，再见却是遗憾的...姥姥的下葬刚好赶上中秋节，我两夜几乎没有睡觉，望着天上的月亮，人有悲欢离合，月有阴晴圆缺，这不就是人生的写照吗，写到这里面的眼泪已经开始眼睛里面转动了，快要溢出，可能人生就是这样，做好当下，常回家看看。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/moon.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/moon.jpg" alt="" /></p>
 <p> 看这月光，这是姥姥，在看着我~~~</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/22"/><category term="杂记"/><published>2025-10-16T05:06:53+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/21</id><title>mac使用IE浏览器</title><updated>2025-09-22T04:06:34+00:00</updated><content type="html"><![CDATA[<p>打开开发者模式，使用的代码是</p>
 <pre><code class="language-bash">Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1；WOW64; Trident/5.0）
 </code></pre>
 <p>填入到其他里面，然后在使用软件的时候进行选中即可。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20250922120338795.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20250922120338795.png" alt="" /></p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/21"/><category term="技术"/><published>2025-09-22T04:06:09+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/20</id><title>利用clash代理ATrust</title><updated>2025-09-14T07:24:33+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>折腾仅仅不是为了喜欢，而是更好的实现自己的需求。</p>
 </blockquote>
@@ -987,13 +987,13 @@ rules:
 }
 </code></pre>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/19"/><category term="技术"/><published>2025-09-13T01:34:03+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/18</id><title>解决mac弹出关于本机的bug</title><updated>2025-08-10T06:48:38+00:00</updated><content type="html"><![CDATA[<p> 之前一直遇到这么一个问题，就是在mac下面打字的时候莫名其妙的会遇到弹窗。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/image-20250810142624282.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/image-20250810142624282.png" alt="" /></p>
 <p> 弹窗就是如上图所示，一直没有找到解决问题的原因，然后我去<a href="https://v2ex.com/t/1151012?p=1#reply12">v2ex</a>上面发了一篇贴子，咨询关于这个问题，最后终于得到解决方式，就是 <code>Bartender 5</code> 这个软件的问题，升级到最新版本或者是删除问题就解决了。</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/18"/><category term="杂记"/><published>2025-08-10T06:48:38+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/17</id><title>湖州</title><updated>2025-07-30T01:49:29+00:00</updated><content type="html"><![CDATA[<p> 从老家到杭州，每次都是路过湖州，但是没有正真的来玩过，这次好不容易来湖州玩几天，没想到遇到了台风天气，前两天还行，去了莲花庄，双林古镇，参观了《典籍里的中国》陈列馆，最后还去了湖州古镇，看了《最美太湖》的表演，水上打铁花，以及最后的烟花，因为跟团的，整个过程感觉就是快节奏的，总体来说还是挺好玩的，对于这次的旅行对于内心来说是五味杂陈吧（后面的博客再续），其他的我觉得没有什么特别好记录的，放一些照片在上面吧。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/8d08df258d3824e683e1481f68ee6a5d.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/ab58e93e4c73d76e6f67a16d56fc950d.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/d3e96df3419512aabbe039e594d8b780.jpg" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@master/img/277b5e4704d5befa46b2668491262fd7.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/8d08df258d3824e683e1481f68ee6a5d.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/ab58e93e4c73d76e6f67a16d56fc950d.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/d3e96df3419512aabbe039e594d8b780.jpg" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/coutureone/gitblog@main/img/277b5e4704d5befa46b2668491262fd7.jpg" alt="" /></p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/17"/><category term="杂记"/><published>2025-07-30T01:49:29+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/16</id><title>外网监控网页注意端口</title><updated>2025-07-27T06:43:26+00:00</updated><content type="html"><![CDATA[<p>遇到一个监控网站一直发短信的问题，一会回复一会儿正常，但是这个网站不管是内网还是是外网打开都是正常的，然后进入网站的监控平台一看，<a href="http://xxx.com">http://xxx.com</a> 这样看上去好像也是没啥问题，但是网站本身为了安全是走了433端口，没有开80，所以要在监控网站的平台上需要修改成 <a href="https://xxx.com">https://xxx.com</a> 然后就收到网站恢复正常的通知，bug解决了。</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/16"/><category term="技术"/><published>2025-07-27T06:43:26+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/15</id><title>项目主观评分</title><updated>2025-07-22T10:15:35+00:00</updated><content type="html"><![CDATA[<p> 关于公开项目评标在主观分上，尽可能需要设置评分标准的人多设置几个，避免选项只有0和其他，否则打分是要写说明的。</p>
 ]]></content><link href="https://blog.xcouture.cc/#/posts/15"/><category term="随笔"/><published>2025-07-22T10:15:35+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/14</id><title>知否</title><updated>2025-07-11T05:43:04+00:00</updated><content type="html"><![CDATA[<p>​	好久没有写博客了， 最近这段时间的我去干嘛了呢，当然是去找我人生中的另一半去了，在这段日子里面喜怒哀愁各种都有吧，但是在这其中让我感受最深的是一种特别的<code>illness</code>，<code>depressive disorder（抑郁症）</code>。</p>
