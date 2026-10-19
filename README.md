@@ -37,11 +37,11 @@
 </details>
 
 ## 最近更新
+- [湘湖半马｜没有破 2，但我跑到了 2000 公里](https://github.com/xcouturecc/gitblog/issues/54)--2026-10-19
 - [ChatGPT接入中国Garmin](https://github.com/xcouturecc/gitblog/issues/53)--2026-09-28
 - [解决Excel加载项](https://github.com/xcouturecc/gitblog/issues/52)--2026-09-11
 - [1000KM](https://github.com/xcouturecc/gitblog/issues/51)--2026-08-22
 - [关于苹果iMessage 打字卡顿BUG](https://github.com/xcouturecc/gitblog/issues/50)--2026-08-17
-- [无糖可乐比咖啡劲大](https://github.com/xcouturecc/gitblog/issues/49)--2026-07-31
 ## Agent
 - [Hermes 踩坑](https://github.com/xcouturecc/gitblog/issues/40)--2026-05-28
 ## About Me
@@ -63,17 +63,19 @@
 - [一不留神的网络环路](https://github.com/xcouturecc/gitblog/issues/7)--2025-01-14
 </details>
 
+- [湘湖半马｜没有破 2，但我跑到了 2000 公里](https://github.com/xcouturecc/gitblog/issues/54)--2026-10-19
 - [ChatGPT接入中国Garmin](https://github.com/xcouturecc/gitblog/issues/53)--2026-09-28
 - [1000KM](https://github.com/xcouturecc/gitblog/issues/51)--2026-08-22
 - [博客优化](https://github.com/xcouturecc/gitblog/issues/45)--2026-07-05
 - [2024从那里写呢](https://github.com/xcouturecc/gitblog/issues/8)--2025-01-19
+- [湘湖半马｜没有破 2，但我跑到了 2000 公里](https://github.com/xcouturecc/gitblog/issues/54)--2026-10-19
 - [ChatGPT接入中国Garmin](https://github.com/xcouturecc/gitblog/issues/53)--2026-09-28
 - [解决Excel加载项](https://github.com/xcouturecc/gitblog/issues/52)--2026-09-11
 - [关于苹果iMessage 打字卡顿BUG](https://github.com/xcouturecc/gitblog/issues/50)--2026-08-17
 - [无糖可乐比咖啡劲大](https://github.com/xcouturecc/gitblog/issues/49)--2026-07-31
-- [奇怪的人际关系](https://github.com/xcouturecc/gitblog/issues/48)--2026-07-16
 <details><summary>显示更多</summary>
 
+- [奇怪的人际关系](https://github.com/xcouturecc/gitblog/issues/48)--2026-07-16
 - [万象输入方案配置](https://github.com/xcouturecc/gitblog/issues/46)--2026-07-07
 - [深夜流水账：长跑、网络折腾与AI时代的胡思乱想写点东西](https://github.com/xcouturecc/gitblog/issues/39)--2026-05-18
 - [跑步首次“站台”](https://github.com/xcouturecc/gitblog/issues/38)--2026-05-07

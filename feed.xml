@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://blog.xcouture.cc</id><title>Couture's Blog</title><updated>2026-09-28T14:33:23+00:00</updated><link href="https://blog.xcouture.cc"/><link href="https://raw.githubusercontent.com/xcouturecc/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://blog.xcouture.cc/#/posts/53</id><title>ChatGPT接入中国Garmin</title><updated>2026-09-28T14:33:23+00:00</updated><content type="html"><![CDATA[<p> 我原本考虑把佳明账号换成国际区，想让训练数据更方便地进入 AI 助手。但了解之后发现，换区未必能解决我遇到的接入限制。最后，我保留了 Garmin Connect 中国区账号，借助开源项目 借助开源项目 <a href="https://github.com/Taxuspt/garmin_mcp">Garmin MCP Server</a>，搭建了一条适合自己使用的链路。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://blog.xcouture.cc</id><title>Couture's Blog</title><updated>2026-10-19T13:19:41+00:00</updated><link href="https://blog.xcouture.cc"/><link href="https://raw.githubusercontent.com/xcouturecc/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://blog.xcouture.cc/#/posts/54</id><title>湘湖半马｜没有破 2，但我跑到了 2000 公里</title><updated>2026-10-19T13:19:41+00:00</updated><content type="html"><![CDATA[<p>2026 年 10 月 18 日，湘湖半程马拉松。</p>
+<p>官方成绩：2:07:03。</p>
+<p>没有破 2，但我依然很开心。因为这一次，我又刷新了自己的半马 PB。更巧的是，在这段时间里，我的累计跑量也正式来到了 2000 公里。</p>
+<p>赛前当然想过破 2。训练到现在，2 小时已经不再是一个遥不可及的目标，我也想看看自己能不能真正跨过这道门槛。</p>
+<p>但比赛当天的高温，让整个过程比预想中艰难很多。相同的配速，需要付出更多体力，越到后程，身体的反馈也越明显。</p>
+<p>最后，我没有跑进 2 小时。</p>
+<p>2 小时 07 分 03 秒。</p>
+<p>如果只看赛前目标，这次并没有成功。但换一个角度看，我依然跑出了新的 PB。</p>
+<p>这至少说明，我还在进步。</p>
+<p>而比这场比赛更让我感慨的，是自己的总跑量已经来到了 2000 公里。</p>
+<p>2000 公里看起来只是一个数字，但真正回头去看，里面其实是无数次普通的训练。</p>
+<p>换衣服，穿跑鞋，打开手表，按下开始，然后一公里一公里地跑下去。</p>
+<p>有轻松跑，有间歇，有长距离；有状态好的时候，也有疲惫、失眠、受伤和怀疑自己的时候。</p>
+<p>很多训练现在已经记不清了，但它们并没有消失。它们变成了更快一点的配速、更强一点的耐力，以及一次又一次新的 PB。</p>
+<p>当然，这场湘湖半马也留下了一点代价。</p>
+<p>比赛结束后，我的左膝外侧出现了比较明显的疼痛，上下楼尤其明显，整个髂胫束也感觉很紧。</p>
+<p>所以接下来最重要的事情不是继续冲成绩，而是先好好恢复。</p>
+<p>2000 公里都已经跑过来了，也不差休息这几天。</p>
+<p>至于破 2，我当然还是想。</p>
+<p>只是现在没有那么着急了。</p>
+<p>这一次没有完成，不代表下一次也做不到。只要身体恢复好，只要继续训练，那个目标依然在那里。</p>
+<p>所以这篇文章，就用来纪念这一天。</p>
+<p>纪念湘湖半马的 2:07:03，纪念又一次刷新 PB，也纪念自己的累计跑量来到 2000 公里。</p>
+<p>没有破 2，但还是比过去的自己快了一点。</p>
+<p>这已经足够值得开心。</p>
+<p>2000 公里之后，继续跑。破 2，留给下一次。</p>
+]]></content><link href="https://blog.xcouture.cc/#/posts/54"/><category term="杂记"/><category term="running"/><published>2026-10-19T13:19:41+00:00</published></entry><entry><id>https://blog.xcouture.cc/#/posts/53</id><title>ChatGPT接入中国Garmin</title><updated>2026-09-28T14:33:23+00:00</updated><content type="html"><![CDATA[<p> 我原本考虑把佳明账号换成国际区，想让训练数据更方便地进入 AI 助手。但了解之后发现，换区未必能解决我遇到的接入限制。最后，我保留了 Garmin Connect 中国区账号，借助开源项目 借助开源项目 <a href="https://github.com/Taxuspt/garmin_mcp">Garmin MCP Server</a>，搭建了一条适合自己使用的链路。</p>
 <p> 现在，我可以在 Codex 桌面端直接询问最近的跑步、睡眠和恢复情况；软路由也会定时取数，生成训练日报并通过 Bark 推送到手机。这里的“接入 ChatGPT”，具体落地在支持 MCP 的 Codex 客户端和我自己写的日报程序中。</p>
 <h2>整体架构</h2>
 <pre><code class="language-text">Garmin Connect 中国区
