@@ -44,6 +44,7 @@
 - [关于苹果iMessage 打字卡顿BUG](https://github.com/xcouturecc/gitblog/issues/50)--2026-08-17
 ## Agent
 - [Hermes 踩坑](https://github.com/xcouturecc/gitblog/issues/40)--2026-05-28
+## About Me
 - [关于我](https://github.com/xcouturecc/gitblog/issues/6)--2025-01-09
 - [关于MosDNS没有轮转机制解决方案](https://github.com/xcouturecc/gitblog/issues/47)--2026-07-13
 - [OpenClash+Mosdns+AdGuard+Atrust网络全打通](https://github.com/xcouturecc/gitblog/issues/35)--2026-03-08
@@ -86,5 +87,16 @@
 - [解决mac弹出关于本机的bug](https://github.com/xcouturecc/gitblog/issues/18)--2025-08-10
 - [湖州](https://github.com/xcouturecc/gitblog/issues/17)--2025-07-30
 - [知否](https://github.com/xcouturecc/gitblog/issues/14)--2025-07-11
+</details>
+
+- [近况](https://github.com/xcouturecc/gitblog/issues/34)--2026-02-13
+- [遵从本心](https://github.com/xcouturecc/gitblog/issues/32)--2026-01-19
+- [西湖](https://github.com/xcouturecc/gitblog/issues/30)--2026-01-11
+- [明年今日](https://github.com/xcouturecc/gitblog/issues/26)--2025-12-24
+- [项目主观评分](https://github.com/xcouturecc/gitblog/issues/15)--2025-07-22
+<details><summary>显示更多</summary>
+
+- [Running](https://github.com/xcouturecc/gitblog/issues/11)--2025-05-08
+- [喝大学室友的喜酒](https://github.com/xcouturecc/gitblog/issues/10)--2025-02-12
 </details>
 
